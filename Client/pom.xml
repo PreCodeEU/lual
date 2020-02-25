@@ -13,7 +13,7 @@
         <main.class>github.lual.Main</main.class>
 
         <jar.jserialcomm.version>2.3.0</jar.jserialcomm.version>
-        <jar.netty.version>4.1.31.Final</jar.netty.version>
+        <jar.netty.version>4.1.42.Final</jar.netty.version>
         <jar.lombok.version>1.18.4</jar.lombok.version>
         <jar.javafx.version>11.0.1</jar.javafx.version>
         <jar.guava.version>27.0-jre</jar.guava.version>
